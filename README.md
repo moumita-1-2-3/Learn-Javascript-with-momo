@@ -20,3 +20,6 @@ Welcome to my JavaScript learning journey! 🌟
 
 ## Contribute
 Pull requests are welcome! If you have suggestions or ideas, let me know.
+
+ <h3 align="left">Languages and Tools:</h3>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
